@@ -19,7 +19,7 @@
 
 ### 🧭 What I do
 
-- 🔥 **Senior Software Engineer at [Sellfire](https://github.com/Sellfire)** — a B2B sales-performance platform. As the team's senior engineer I own frontend architecture, testing, CI, and observability, and ship AI/LLM features end to end.
+- 🔥 **Senior Frontend Engineer at Sellfire — a B2B sales-performance platform. As the team's senior engineer I own frontend architecture, testing, CI, and observability, and ship AI/LLM features end to end.
 - 🧪 I care about reliability: **Playwright** end-to-end tests, **Sentry** monitoring, and **GitHub Actions** pipelines that let a small team ship fast without breaking things.
 - 🤖 Lately: building with LLMs and the **Model Context Protocol (MCP)** to put product data in front of AI assistants.
 - 🗾 Before engineering I taught English in Kitakata, Fukushima for three years, so I'm comfortable working across English- and Japanese-speaking teams.
