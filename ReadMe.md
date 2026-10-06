@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Zach 👋</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer</strong> building React / Next.js / TypeScript products — remote from Fukushima, Japan 🇯🇵<br/>
+  <strong>Senior Software Engineer</strong> building React / TypeScript / Cloudflare Workers products — remote from Fukushima, Japan 🇯🇵<br/>
   <sub>English (native) · 日本語 (JLPT N1)</sub>
 </p>
 
@@ -19,7 +19,7 @@
 
 ### 🧭 What I do
 
-- 🔥 **Senior Frontend Engineer** at Sellfire — a B2B sales-performance platform. As the team's senior engineer I own frontend architecture, testing, CI, and observability, and ship AI/LLM features end to end.
+- 🔥 **Senior Software Engineer** at Sellfire — a B2B sales-performance platform. As the team's senior engineer I own frontend architecture, testing, CI, and observability, and ship AI/LLM features end to end.
 
 
 ### 🛠️ Stack
