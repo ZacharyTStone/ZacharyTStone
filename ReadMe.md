@@ -19,7 +19,7 @@
 
 ### 🧭 What I do
 
-- 🔥 **Senior Software Engineer** at Sellfire — a B2B sales-performance platform. As the team's senior engineer I own frontend architecture, testing, CI, and observability, and ship AI/LLM features end to end.
+- 🔥 **Senior Software Engineer** at Sellfire, a B2B sales-engagement platform. Top contributor to the web app and primary author of seven services and tools around it. I work across React, Node/GraphQL and Cloudflare Workers and ship LLM/MCP features end to end.
 
 
 ### 🛠️ Stack
