@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.zstone.dev"><img src="https://img.shields.io/badge/Portfolio-zstone.dev-111?style=flat-square" /></a>
   <a href="https://linkedin.com/in/zacharystone42"><img src="https://img.shields.io/badge/LinkedIn-zacharystone42-0A66C2?logo=linkedin&style=flat-square" /></a>
-  <a href="mailto:zacharystone42@gmail.com"><img src="https://img.shields.io/badge/Email-zacharystone42%40gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square" /></a>
+  <a href="mailto:zach.stone.developer@gmail.com"><img src="https://img.shields.io/badge/Email-zach.stone.developer@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square" /></a>
 </p>
 
 ---
