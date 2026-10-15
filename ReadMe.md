@@ -37,7 +37,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[ビジネス日本語ドリル](https://github.com/ZacharyTStone/business-japanese-test-practice)** · *in progress* | Adaptive practice app for the BJT Business Japanese test — an LLM pipeline writes and gate-checks exam-style questions; Postgres picks each learner's next set | Python · Claude API · Supabase · Expo |
+| **[Business Japanese Practice](https://businessjapanesepractice.com)** · *private beta* | Adaptive practice app for the business Japanese exam on web and Android — an LLM pipeline writes exam-style questions overnight and gates each one before it ships; no model runs at practice time, and the database grades every answer | TypeScript · Expo / React Native · Cloudflare Workers · D1 · R2 · Claude API |
 | **[My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection)** · [live](https://my-anime-collection.onrender.com) | Free anime tracker — explore titles and build custom playlists | TypeScript · React · Node |
 | **[Infinite Flashcards](https://github.com/ZacharyTStone/Infinite-Flashcards)** | Turns a plain word list into Anki Japanese flashcards using the OpenAI API | Python · OpenAI |
 | **[personal-pi-home](https://github.com/ZacharyTStone/personal-pi-home)** | Boilerplate for cron-driven Docker containers on a Raspberry Pi (weather, stock tracking, …) | Python · Docker |
