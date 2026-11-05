@@ -33,15 +33,6 @@
   <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white&style=flat-square" />
 </p>
 
-### 🚀 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[ビジネス日本語ドリル](https://github.com/ZacharyTStone/business-japanese-test-practice)** · *in progress* | Adaptive practice app for the BJT Business Japanese test — an LLM pipeline writes and gate-checks exam-style questions; Postgres picks each learner's next set | Python · Claude API · Supabase · Expo |
-| **[My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection)** · [live](https://my-anime-collection.onrender.com) | Free anime tracker — explore titles and build custom playlists | TypeScript · React · Node |
-| **[Infinite Flashcards](https://github.com/ZacharyTStone/Infinite-Flashcards)** | Turns a plain word list into Anki Japanese flashcards using the OpenAI API | Python · OpenAI |
-| **[personal-pi-home](https://github.com/ZacharyTStone/personal-pi-home)** | Boilerplate for cron-driven Docker containers on a Raspberry Pi (weather, stock tracking, …) | Python · Docker |
-| **[Haku](https://github.com/ZacharyTStone/haku)** | Job-interview tracker to keep your search organized | JavaScript · React |
 
 ### 🎌 Off the keyboard
 
