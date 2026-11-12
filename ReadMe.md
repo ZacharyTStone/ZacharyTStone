@@ -1,39 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/da6fc18c-6fd2-4e92-9ce1-de1cab52ce8e" alt="Zach Stone banner" width="100%" />
-</p>
-
-<h1 align="center">Hi, I'm Zach 👋</h1>
-
-<p align="center">
-  <strong>Senior Software Engineer</strong> building React / TypeScript / Cloudflare Workers products — remote from Fukushima, Japan 🇯🇵<br/>
-  <sub>English (native) · 日本語 (JLPT N1)</sub>
-</p>
-
-<p align="center">
-  <a href="https://www.zstone.dev"><img src="https://img.shields.io/badge/Portfolio-zstone.dev-111?style=flat-square" /></a>
-  <a href="https://linkedin.com/in/zacharystone42"><img src="https://img.shields.io/badge/LinkedIn-zacharystone42-0A66C2?logo=linkedin&style=flat-square" /></a>
-  <a href="mailto:zach.stone.developer@gmail.com"><img src="https://img.shields.io/badge/Email-zach.stone.developer@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square" /></a>
-</p>
-
----
-
-### 🧭 What I do
-
-- 🔥 **Senior Software Engineer** at Sellfire — a B2B sales-performance platform. As the team's senior engineer I own frontend architecture, testing, CI, and observability, and ship AI/LLM features end to end.
-
-
-### 🛠️ Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,postgres,supabase,docker,sentry,githubactions&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/MCP-6B46C1?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white&style=flat-square" />
-</p>
-
-
-### 🎌 Off the keyboard
-
-🥊 Kickboxing · 🎬 Slowly collecting every Studio Ghibli film on Blu-ray · 🗾 Favorite place: Fukushima
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="ZacharyTStone's GitHub profile" src="dark_mode.svg" />
+</picture>
