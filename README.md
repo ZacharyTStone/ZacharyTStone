@@ -1,5 +1,3 @@
-<h3 align="right">who are you?</h3>
-
 I’m **Zach Stone**, a senior software engineer in Fukushima, Japan, working US hours.
 I take customer problems from the first conversation to production: full-stack TypeScript, Cloudflare Workers, and LLM and MCP integrations. I work in English and Japanese (JLPT N1).
 
